@@ -1,0 +1,17 @@
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample.deps.json
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample.runtimeconfig.json
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample.runtimeconfig.dev.json
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample.dll
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/sample.pdb
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/restClient.dll
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/restClient.pdb
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.csprojAssemblyReference.cache
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.csproj.CoreCompileInputs.cache
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.AssemblyInfoInputs.cache
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.AssemblyInfo.cs
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.csproj.CopyComplete
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.dll
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.pdb
+/home/ali/project/restClient/sample/obj/Debug/netcoreapp3.1/sample.genruntimeconfig.cache
+/home/ali/project/restClient/sample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tfe7VASLMNljcp8rqyvE1EM69+/rRErQYayCKD5hN1eZ4mM9kflneZJo1z9nh4bepjlvtl963vmC3LQ4LU+y6g==",
+  "success": true,
+  "projectFilePath": "/home/ali/project/restClient/sample/sample.csproj",
+  "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
